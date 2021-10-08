@@ -1,5 +1,5 @@
 body {
-  background-color: #ffe6ff;
+  background-color: #f9f4f4 !important;
 }
 
 .espectacular {
@@ -7,4 +7,8 @@ body {
 }
 .titulo {
   color: #3f5d73;
+}
+
+.nanaSecundario {
+  background-color: #264f6e;
 }
