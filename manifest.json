@@ -1,9 +1,9 @@
 {
-    "name": "#Practica1",
-    "short_name": "#Practica1",
+    "name": "Nana Cutzi",
+    "short_name": "Nana Cutzi",
     "description": "Esta es una página PWA",
     "background_color": "#2B2B2B",
-    "theme_color": "#F0DB4F",
+    "theme_color": "#ffc6dd",
     "orientation": "portrait",
     "display": "standalone",
     "start_url": "./?utm_source=web_app_manifest",
